@@ -7,4 +7,4 @@
 #Simple note notetaker, please reach out to finapptank@gmail.com for more details
 
 
-![Screenshot](notetake.PNG?raw=true)
+![Screenshot](notetake.png)
