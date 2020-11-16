@@ -7,4 +7,4 @@
 #Simple note notetaker, please reach out to finapptank@gmail.com for more details
 
 
-![Screenshot](https://github.com/francofin/notetaker/blob/master/notetaker.png)
+![Screenshot](https://github.com/francofin/notetaker/blob/master/notetaker.PNG?raw=true)
